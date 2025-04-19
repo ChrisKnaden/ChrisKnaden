@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 #### Participation in other projects
 - [Social Media Analysis](https://github.com/lgiesen/social-media-analysis)
