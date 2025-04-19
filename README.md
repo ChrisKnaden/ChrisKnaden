@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+#### Participation in other projects
+- [Social Media Analysis](https://github.com/lgiesen/social-media-analysis)
+- [Face Recognition](https://github.com/lferlings/DA2CS)
+- [Door Label E-Ink Display](https://github.com/jmne/ps-housetech-eink)
+
 <!--
 **ChrisKnaden/ChrisKnaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
