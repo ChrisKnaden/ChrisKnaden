@@ -1,6 +1,7 @@
 ## 👋
 
 #### Participation in other projects
+- [Leezencounter](https://github.com/SteffChef/leezencounter)
 - [Social Media Analysis](https://github.com/lgiesen/social-media-analysis)
 - [Face Recognition](https://github.com/lferlings/DA2CS)
 - [Door Label E-Ink Display](https://github.com/jmne/ps-housetech-eink)
